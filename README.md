@@ -11,6 +11,8 @@ Implement an ALU that supports the following 8 operations:
 
 
 ->>Using structured Verilog descriptions 
+
 and implementing two files 
 1- alu -> using 4 bits alu
+
 2- n-alu -> using n bits alu
